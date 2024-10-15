@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Nathan 
+ * Created by: Nathan Haimanot
  * Created on: Oct 2024
  * This program switches the RGB colour.
 */
